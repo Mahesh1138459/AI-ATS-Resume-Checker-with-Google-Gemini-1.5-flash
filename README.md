@@ -1,6 +1,6 @@
-# **Hire Like a Fortune 500: End-to-End ATS with Google Gemini Pro Vision**
+# **Hire Like a Fortune 500: End-to-End ATS with Google Gemini 1.5 Flash**
 
-Welcome to the **Hire Like a Fortune 500** project, your comprehensive End-to-End Applicant Tracking System (ATS) powered by Google Gemini Pro Vision. This cutting-edge system leverages advanced AI to analyze resumes and provide valuable insights for hiring professionals. Whether you want to evaluate a candidate's profile, offer career advice, identify missing keywords, or calculate the percentage match, this tool has you covered.
+Welcome to the **Hire Like a Fortune 500** project, your comprehensive End-to-End Applicant Tracking System (ATS) powered by Google Gemini 1.5 Flash. This cutting-edge system leverages advanced AI to analyze resumes and provide valuable insights for hiring professionals. Whether you want to evaluate a candidate's profile, offer career advice, identify missing keywords, or calculate the percentage match, this tool has you covered.
 
 ## Getting Started
 
@@ -76,6 +76,6 @@ Leverage your expertise to calculate the percentage match between the required s
 
 ## Notes
 
-- Ensure your Google API key is set as an environment variable named "GOOGLE_API_KEY" for Google Gemini Pro Vision.
+- Ensure your Google API key is set as an environment variable named "GOOGLE_API_KEY" for Google Gemini 1.5 Flash.
 
 Feel free to explore, analyze, and make data-driven decisions with the **Hire Like a Fortune 500** ATS! 🚀
